@@ -1,0 +1,14 @@
+{
+    "python.testing.pytestArgs": [
+        "002-lab-04-mayseden"
+    ],
+    "python.testing.unittestEnabled": true,
+    "python.testing.pytestEnabled": false,
+    "python.testing.unittestArgs": [
+        "-v",
+        "-s",
+        "./002-lab-04-mayseden",
+        "-p",
+        "*test.py"
+    ]
+}
